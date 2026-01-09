@@ -277,9 +277,9 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Construction Company**
-- Website: [construction.com](https://construction.com)
-- Email: info@construction.com
-- Phone: +1 (555) 123-4567
+- Website: www.ameerhamzadevelopers.com
+- Email: info.ameerhamzadevelopers@gmail.com
+- Phone: +923219300005
 
 ---
 
@@ -318,3 +318,4 @@ This project is licensed under the MIT License.
 ---
 
 **Built with ❤️ using 3D Technology**
+
